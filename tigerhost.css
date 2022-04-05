@@ -18,6 +18,12 @@ font.asim11 {
     
     display: none!important;
 }
+span.s1.fa.fa-user.label.badgex.label-as-badge.label-success {
+    background-color: #d01b1b00;
+    color: #fff;
+    float: left!important;
+    margin: -2px 0px -4px 160px !important;
+}
 .broadcasters>div>.prod {
     height: 30px!important;
     width: 30px!important;
