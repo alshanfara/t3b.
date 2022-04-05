@@ -16,7 +16,15 @@ font.asim11 {
 }
 .btn.minix.fa.fa-comment.fr {
     
-    display: none;
+    display: none!important;
+}
+.broadcasters>div>.prod {
+    height: 30px!important;
+    width: 30px!important;
+    background: none!important;
+    border-left: #566f96 2px solid !important;
+    border-right: #566f96 2px solid !important;
+    margin: 0px 12px 5px -5px;
 }
 .uzr {
     margin-left: 0!important;
