@@ -14,7 +14,17 @@ font.asim11 {
     font-family: 'jazeera',FontAwesome;
     font-size: 13px!important;
 }
-
+.uzr {
+    margin-left: 0!important;
+    border-radius: 0px!important
+}
+div#tlogins .fitimg.fl.u-pic {
+    height: 0!important;
+    width: 0!important;
+    content: url()!important;
+    margin: 0!important;
+    margin-left: 0!important;
+}
 .pmsgc {
     box-shadow: inset 0 1px 100px #008faf29,0 0 6px #fff!important;
     outline-offset: -4px
@@ -100,9 +110,12 @@ label.tc.border.btn.label-info.fl {
 }
 
 .fl.u-pic {
-    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 10px #6b2bf199;
 }
-
+div#tlogins .fr.borderg {
+    background: #008faf!important;
+    width: 389px;
+    color: #fff!important;
+}
 .btn-primary {
     border-color: #c1c1c1!important;
     background: #008faf;
