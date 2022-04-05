@@ -37,8 +37,8 @@ span.s1.fa.fa-user.label.badgex.label-as-badge.label-success {
     border-radius: 0px!important
 }
 div#tlogins .fitimg.fl.u-pic {
-    height: 0!important;
-    width: 0!important;
+      height: 52px!important;
+    width: 52px!important;
     content: url()!important;
     margin: 0!important;
     margin-left: 0!important;
